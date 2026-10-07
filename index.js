@@ -1,7 +1,7 @@
 const { Bot } = require("grammy");
 
 // @BotFather bergan tokenni joylashtiring
-const bot = new Bot("8219150883:AAFlvJcompqQC1b04pep0oWhUApHpIRjQL8");
+const bot = new Bot("7025492427:AAHbLpbkG4sT9yHjP7AQ7ds_Q4Si-rxdXN8");
 
 // /start buyrug'iga javob
 bot.command("start", (ctx) => ctx.reply("Salom! Xush kelibsiz."));
